@@ -1,1 +1,5 @@
-h1 {background-color: aqua;}
+h1 {background-color: rgba(204, 159, 235, 0.781);
+text-align: center;}
+p {text-align: justify;
+font-style:unset;
+font;}
