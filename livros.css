@@ -3,12 +3,31 @@ body{background-color: #e5e5e5;}
 h1 {text-align:center;
     font:medium;}
 
+h2 {text-align:center;
+    text-align:center;
+    background-color: #51cc9076;
+    border-color: #51cc9076;
+    border-style:solid;
+    border-radius: 80px 80px 80px 80px;
+    margin: 12px 20px 12px 20px;
+    font:medium;}
+
+.p1 {border-color: #e5e5e5;
+    border-width: 7px;
+    border-style:solid;
+    text-align: justify;
+    margin: 12px 20px 12px 20px;
+    font-size: 18px;}
+
 header {text-align:center;
     font-family:impact;
     background-color: #51cc9076;
     border-color: #51cc9076;
     border-style:solid;
     border-radius: 80px 80px 80px 80px;}
+
+.imagemcentralizada {text-align:center;
+    border-radius: 40px 40px 40px 40px;}
 
 nav a{  text-transform: uppercase;
     font:medium;
@@ -18,18 +37,4 @@ nav a{  text-transform: uppercase;
     color: #474747;
     text-decoration: none ;}
 
-.imagem1 {width: 70%;
-    border-radius:20px 20px 20px 20px;} 
-      
-.centralizar {
-    list-style-type: none;
-    text-align: center;
-    display:flex;
-    vertical-align:middle;
-    margin: 0 1.5%;
-    padding: 30px 20px;
-    border-radius: 80px 80px 80px 80px;
-    border-color: #51cc9076;
-    border-width: 5px;
-    border-style: solid;}
-      
+.coleção {text-align: center;}
