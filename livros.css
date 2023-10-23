@@ -1,0 +1,33 @@
+body{background-color: #e5e5e5;}
+
+h1 {text-align:center;
+    font:medium;}
+header {text-align:center;
+    font-family:impact;
+    background-color: #51cc9076;
+    border-color: #51cc9076;
+    border-style:solid;
+    border-radius: 80px 80px 80px 80px;}
+
+nav a{  text-transform: uppercase;
+    font:medium;
+    padding: 5%;
+    font-weight: 300;
+    font-size: 100%;
+    color: #474747;
+    text-decoration: none ;}
+
+    .imagem1 {
+        width: 20%
+      }
+      
+      .centralizar {
+        text-align: center;
+        display: inline-block;
+        vertical-align: top;
+        margin: 0 1.5%;
+        padding: 30px 20px;
+        border-color: #51cc9076;
+        border-width: 5px;
+        border-style: solid;}
+      
