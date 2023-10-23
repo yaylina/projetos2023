@@ -18,16 +18,18 @@ nav a{  text-transform: uppercase;
     text-decoration: none ;}
 
     .imagem1 {
-        width: 20%
+        width: 70%
       }
       
       .centralizar {
+        list-style-type: none;
         text-align: center;
-        display:flow-root;
+        display:flex;
         vertical-align:middle;
         margin: 0 1.5%;
         padding: 30px 20px;
         border-color: #51cc9076;
         border-width: 5px;
+        border-style: solid;}
         border-style: solid;}
       
