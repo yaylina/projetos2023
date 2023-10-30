@@ -37,10 +37,8 @@ nav a{  text-transform: uppercase;
     color: #474747;
     text-decoration: none ;}
 
-nav a hover {
-    color: orange;
-    text-decoration: underline;
-}
+nav a hover {color: orange;
+    text-decoration: underline;}
 
 .coleção {text-align: center;}
 
